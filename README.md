@@ -1,1 +1,1 @@
-# nannenkanji
+# kanji2grade
